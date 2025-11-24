@@ -11,11 +11,17 @@ The goal of the workshop is to show how to:
 
 ### Install dependencies
 
-npm install
+`npm install`
+
+### Install node 22
+
+`nvm install 22` 
+
+`nvm use`
 
 ### Run the project
 
-npm run dev
+`npm run dev`
 
 ### See the project
 
